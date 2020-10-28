@@ -4,7 +4,7 @@ A simple ICMP spoofer that utilized raw socket and libpcap
 
 ## Dependency
 ```
-libpcap
+apt instasll libpcap-dev
 ```
 
 ## Compile
