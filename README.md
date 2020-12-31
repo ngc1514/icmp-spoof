@@ -14,7 +14,7 @@ gcc file.c -o file -lpcap
 
 ## Description
 ### icmpspoof.c
-Spoof a ICMP packet to any IP <br />
+Spoof an ICMP packet to any IP <br />
 
 ### sns.c
 Sniff any ICMP packet on network and spoof back to original sender <br />
